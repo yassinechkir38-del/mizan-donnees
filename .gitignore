@@ -1,0 +1,9 @@
+# Les données vont dans les Releases, jamais dans l'historique git.
+*.zip
+*.pdf
+*.sqlite
+*.db
+*.npy
+*.lance/
+*.gguf
+.env
